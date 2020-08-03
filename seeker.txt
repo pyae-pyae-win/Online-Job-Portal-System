@@ -1,0 +1,3 @@
+{"Name":"saw","Phone":"09-12354","Address":"monywa","NRC":"5\/khatana123455","Email":"may2@gmail.com","City":"Yangon","Education":"B.C.S.C","Skills":"IT Professional","Experiences":"3 Years","Position":" Project Manager"}
+{"Name":"Aye Aye","Phone":"09-3564879","Address":"Maymyo","NRC":"5\/SaLaKa(N)031561","Email":"aye534@gmail.com","City":"Yangon","Education":"B.A(History)","Skills":"Teacher ","Experiences":"4 years","Position":"Teacher"}
+{"Name":"Than Mar Htay","Phone":"09-457955689","Address":"Maymyo","NRC":"5\/BaTaLa123458","Email":"than33@gmail.com","City":"Yangon","Education":"B.C.S.C","Skills":"IT Professional","Experiences":"3 Years","Position":"Developer"}
